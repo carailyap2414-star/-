@@ -18,7 +18,7 @@
 - Просмотреть задачи  
 - Создать проект  
 
-![Use Case Diagram](UseCaseDiagram.png)
+![Use Case Diagram](images/UseCaseDiagram.png)
 
 **Код PlantUML для Use Case:**
 
