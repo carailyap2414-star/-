@@ -13,6 +13,7 @@
 
 **Код PlantUML для Activity Diagram:**
 
+
 ```plantuml
 @startuml
 start
@@ -23,4 +24,3 @@ start
 :Завершение задачи;
 stop
 @enduml
- 
