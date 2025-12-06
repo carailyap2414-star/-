@@ -1,0 +1,19 @@
+## 2️⃣ Activity Diagram
+
+**Процесс «Полный цикл задачи»:**  
+Создание → Назначение → Начало работы → Обновление статуса → Завершение
+
+![Activity Diagram](images/ActivityDiagram.png)
+
+**Код PlantUML для Activity Diagram:**
+
+```plantuml
+@startuml
+start
+:Создание задачи;
+:Назначение задачи;
+:Начало работы;
+:Обновление статуса;
+:Завершение задачи;
+stop
+@enduml
