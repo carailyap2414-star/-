@@ -7,10 +7,10 @@
 ##  Прототип Figma
 
 ### Dashboard
-![Dashboard](images/dashboard1.png)
+![Dashboard](images/dashboard2.png)
 
 ### Экран создания задачи
-![Create Task](images/create_task.png)
+![Create Task](images/main_menu.png)
 
 ### Главное меню
-![Main Menu](images/main_menu.png)
+![Main Menu](images/dashboard1.png)
